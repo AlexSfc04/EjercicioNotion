@@ -36,6 +36,8 @@ A continuación, se detallan los pasos necesarios para poner en funcionamiento e
 ### Verificación Final:
 1. Antes de realizar un lanzamiento, revisa todos los componentes del trebuchet para asegurarte de que estén seguros y en su lugar.
 2. Realiza una prueba de movimiento del brazo de lanzamiento para garantizar que funcione correctamente.
+# Agradecimientos
+Gracias a Dios.
 # Trebuchet lanzando un coche, un piano y un barril incendiado  
 ### La catapulta de 20 metros capaz de lanzar cualquier cosa.
 + Presentación:
